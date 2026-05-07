@@ -1,0 +1,6082 @@
+[
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "meaning": "I, me",
+    "audio_file": "audio_0.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "we, us",
+    "audio_file": "audio_1.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaning": "you",
+    "audio_file": "audio_2.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "meaning": "you (pl.)",
+    "audio_file": "audio_3.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaning": "he, him",
+    "audio_file": "audio_4.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "meaning": "she, her",
+    "audio_file": "audio_5.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "meaning": "they",
+    "audio_file": "audio_6.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "她们",
+    "pinyin": "tāmen",
+    "meaning": "they (females, pl.)",
+    "audio_file": "audio_7.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "这 (这儿)",
+    "pinyin": "zhè (zhèr)",
+    "meaning": "here, this",
+    "audio_file": "audio_8.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "那 (那儿)",
+    "pinyin": "nà (nàr)",
+    "meaning": "there, that",
+    "audio_file": "audio_9.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "哪 (哪儿)",
+    "pinyin": "nǎ (nǎr)",
+    "meaning": "where",
+    "audio_file": "audio_10.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shuí",
+    "meaning": "who",
+    "audio_file": "audio_11.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shén",
+    "meaning": "me what, why",
+    "audio_file": "audio_12.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duōshǎo",
+    "meaning": "how many, how much",
+    "audio_file": "audio_13.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "meaning": "a few, how many",
+    "audio_file": "audio_14.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "how",
+    "audio_file": "audio_15.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "how about",
+    "audio_file": "audio_16.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "meaning": "one",
+    "audio_file": "audio_17.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "meaning": "two",
+    "audio_file": "audio_18.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "meaning": "three",
+    "audio_file": "audio_19.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "meaning": "four",
+    "audio_file": "audio_20.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "meaning": "five",
+    "audio_file": "audio_21.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "meaning": "six",
+    "audio_file": "audio_22.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "meaning": "seven",
+    "audio_file": "audio_23.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "meaning": "eight",
+    "audio_file": "audio_24.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "meaning": "nine",
+    "audio_file": "audio_25.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "meaning": "ten",
+    "audio_file": "audio_26.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "meaning": "zero",
+    "audio_file": "audio_27.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "meaning": "a, an",
+    "audio_file": "audio_28.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "meaning": "year",
+    "audio_file": "audio_29.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "meaning": "volume",
+    "audio_file": "audio_30.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "meaning": "some",
+    "audio_file": "audio_31.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "meaning": "piece",
+    "audio_file": "audio_32.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "meaning": "no",
+    "audio_file": "audio_33.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "meaning": "no",
+    "audio_file": "audio_34.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "meaning": "quite, very",
+    "audio_file": "audio_35.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "tài",
+    "meaning": "too",
+    "audio_file": "audio_36.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "meaning": "all",
+    "audio_file": "audio_37.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "meaning": "and",
+    "audio_file": "audio_38.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "meaning": "in, at",
+    "audio_file": "audio_39.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "meaning": "",
+    "audio_file": "audio_40.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "meaning": "",
+    "audio_file": "audio_41.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "meaning": "",
+    "audio_file": "audio_42.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "meaning": "",
+    "audio_file": "audio_43.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "meaning": "hello",
+    "audio_file": "audio_44.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "meaning": "home",
+    "audio_file": "audio_45.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "school",
+    "audio_file": "audio_46.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "meaning": "restaurant",
+    "audio_file": "audio_47.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "store",
+    "audio_file": "audio_48.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "hospital",
+    "audio_file": "audio_49.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "train station",
+    "audio_file": "audio_50.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "zhōng",
+    "meaning": "guó China",
+    "audio_file": "audio_51.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "běijīng",
+    "meaning": "Beijing",
+    "audio_file": "audio_52.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "meaning": "up",
+    "audio_file": "audio_53.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "meaning": "down",
+    "audio_file": "audio_54.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "front",
+    "audio_file": "audio_55.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "behind",
+    "audio_file": "audio_56.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐmiàn",
+    "meaning": "inside",
+    "audio_file": "audio_57.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "today",
+    "audio_file": "audio_58.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "tomorrow",
+    "audio_file": "audio_59.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "yesterday",
+    "audio_file": "audio_60.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "morning",
+    "audio_file": "audio_61.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "noon",
+    "audio_file": "audio_62.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "afternoon",
+    "audio_file": "audio_63.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "meaning": "year",
+    "audio_file": "audio_64.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "meaning": "month",
+    "audio_file": "audio_65.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "日",
+    "pinyin": "rì",
+    "meaning": "day",
+    "audio_file": "audio_66.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "week",
+    "audio_file": "audio_67.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "meaning": "dot, spot",
+    "audio_file": "audio_68.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "fēnzhōng",
+    "meaning": "minute",
+    "audio_file": "audio_69.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "now",
+    "audio_file": "audio_70.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "meaning": "time",
+    "audio_file": "audio_71.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "father",
+    "audio_file": "audio_72.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "meaning": "mother",
+    "audio_file": "audio_73.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "meaning": "son",
+    "audio_file": "audio_74.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚér",
+    "meaning": "daughter",
+    "audio_file": "audio_75.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "teacher",
+    "audio_file": "audio_76.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuéshēng",
+    "meaning": "student",
+    "audio_file": "audio_77.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "meaning": "classmate",
+    "audio_file": "audio_78.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "friend",
+    "audio_file": "audio_79.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "doctor",
+    "audio_file": "audio_80.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "sir",
+    "audio_file": "audio_81.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "Miss",
+    "audio_file": "audio_82.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "cloth",
+    "audio_file": "audio_83.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "audio_file": "audio_84.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "meaning": "vegetable",
+    "audio_file": "audio_85.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "rice",
+    "audio_file": "audio_86.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "fruit",
+    "audio_file": "audio_87.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "apple",
+    "audio_file": "audio_88.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "meaning": "tea",
+    "audio_file": "audio_89.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cup",
+    "audio_file": "audio_90.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "meaning": "money",
+    "audio_file": "audio_91.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "airplane",
+    "audio_file": "audio_92.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "taxi",
+    "audio_file": "audio_93.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "meaning": "television",
+    "audio_file": "audio_94.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "computer",
+    "audio_file": "audio_95.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "movie",
+    "audio_file": "audio_96.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "weather",
+    "audio_file": "audio_97.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "meaning": "cat",
+    "audio_file": "audio_98.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "meaning": "dog",
+    "audio_file": "audio_99.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "meaning": "thing",
+    "audio_file": "audio_100.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "meaning": "person",
+    "audio_file": "audio_101.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "meaning": "name",
+    "audio_file": "audio_102.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "meaning": "book",
+    "audio_file": "audio_103.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "hànyǔ",
+    "meaning": "Chinese",
+    "audio_file": "audio_104.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "meaning": "character",
+    "audio_file": "audio_105.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "desk",
+    "audio_file": "audio_106.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "chair",
+    "audio_file": "audio_107.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "meaning": "thank",
+    "audio_file": "audio_108.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "búkèqì",
+    "meaning": "you are welcome",
+    "audio_file": "audio_109.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "good-bye",
+    "audio_file": "audio_110.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "meaning": "please",
+    "audio_file": "audio_111.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duìbùqǐ",
+    "meaning": "sorry",
+    "audio_file": "audio_112.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méiguānxì",
+    "meaning": "It doesn’t matter",
+    "audio_file": "audio_113.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "meaning": "be (am, is, are)",
+    "audio_file": "audio_114.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "meaning": "have",
+    "audio_file": "audio_115.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "meaning": "look",
+    "audio_file": "audio_116.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaning": "listen",
+    "audio_file": "audio_117.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "说话",
+    "pinyin": "shuōhuà",
+    "meaning": "speak",
+    "audio_file": "audio_118.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "meaning": "read",
+    "audio_file": "audio_119.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "meaning": "write",
+    "audio_file": "audio_120.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "看见",
+    "pinyin": "kànjiàn",
+    "meaning": "see",
+    "audio_file": "audio_121.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "meaning": "call",
+    "audio_file": "audio_122.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "meaning": "come",
+    "audio_file": "audio_123.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "回",
+    "pinyin": "huí",
+    "meaning": "return",
+    "audio_file": "audio_124.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "meaning": "go",
+    "audio_file": "audio_125.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "meaning": "eat",
+    "audio_file": "audio_126.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaning": "drink",
+    "audio_file": "audio_127.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "sleep",
+    "audio_file": "audio_128.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "dǎdiànhuà",
+    "meaning": "call up",
+    "audio_file": "audio_129.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "meaning": "do",
+    "audio_file": "audio_130.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "meaning": "buy",
+    "audio_file": "audio_131.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "meaning": "open",
+    "audio_file": "audio_132.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "meaning": "sit",
+    "audio_file": "audio_133.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "meaning": "live",
+    "audio_file": "audio_134.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "study",
+    "audio_file": "audio_135.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "work",
+    "audio_file": "audio_136.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "xiàyǔ",
+    "meaning": "rain",
+    "audio_file": "audio_137.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "meaning": "love",
+    "audio_file": "audio_138.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuān",
+    "meaning": "love, like",
+    "audio_file": "audio_139.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "meaning": "want",
+    "audio_file": "audio_140.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "meaning": "know",
+    "audio_file": "audio_141.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "meaning": "can",
+    "audio_file": "audio_142.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "meaning": "can, be able to",
+    "audio_file": "audio_143.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaning": "good",
+    "audio_file": "audio_144.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "meaning": "big",
+    "audio_file": "audio_145.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small",
+    "audio_file": "audio_146.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "meaning": "many, much",
+    "audio_file": "audio_147.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "meaning": "few, little",
+    "audio_file": "audio_148.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "meaning": "cold",
+    "audio_file": "audio_149.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "meaning": "hot",
+    "audio_file": "audio_150.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "happy",
+    "audio_file": "audio_151.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "piàoliàng",
+    "meaning": "beautiful",
+    "audio_file": "audio_152.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "您",
+    "pinyin": "nín",
+    "meaning": "you",
+    "audio_file": "audio_153.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "它",
+    "pinyin": "tā",
+    "meaning": "it",
+    "audio_file": "audio_154.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "大家",
+    "pinyin": "dàjiā",
+    "meaning": "everyone",
+    "audio_file": "audio_155.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "每",
+    "pinyin": "měi",
+    "meaning": "every",
+    "audio_file": "audio_156.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "为什么",
+    "pinyin": "wèishénme",
+    "meaning": "why",
+    "audio_file": "audio_157.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "meaning": "two",
+    "audio_file": "audio_158.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "meaning": "hundred",
+    "audio_file": "audio_159.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "meaning": "thousand",
+    "audio_file": "audio_160.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "第一",
+    "pinyin": "dìyī",
+    "meaning": "first",
+    "audio_file": "audio_161.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "meaning": "number",
+    "audio_file": "audio_162.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "公斤",
+    "pinyin": "gōngjīn",
+    "meaning": "kilogram",
+    "audio_file": "audio_163.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "meaning": "yuan",
+    "audio_file": "audio_164.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "meaning": "piece",
+    "audio_file": "audio_165.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "张",
+    "pinyin": "zhāng",
+    "meaning": "sheet",
+    "audio_file": "audio_166.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "别",
+    "pinyin": "bié",
+    "meaning": "other",
+    "audio_file": "audio_167.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "meaning": "very",
+    "audio_file": "audio_168.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "meaning": "likewise",
+    "audio_file": "audio_169.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "meaning": "repay",
+    "audio_file": "audio_170.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "meaning": "most",
+    "audio_file": "audio_171.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "meaning": "real",
+    "audio_file": "audio_172.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "正在",
+    "pinyin": "zhèngzài",
+    "meaning": "be being",
+    "audio_file": "audio_173.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "已经",
+    "pinyin": "yǐjīng",
+    "meaning": "already",
+    "audio_file": "audio_174.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "meaning": "together",
+    "audio_file": "audio_175.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "再",
+    "pinyin": "zài",
+    "meaning": "again",
+    "audio_file": "audio_176.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "就",
+    "pinyin": "jiǜ",
+    "meaning": "at once",
+    "audio_file": "audio_177.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "因为",
+    "pinyin": "yīnwèi",
+    "meaning": "because",
+    "audio_file": "audio_178.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "所以",
+    "pinyin": "suǒyǐ",
+    "meaning": "so",
+    "audio_file": "audio_179.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "但是",
+    "pinyin": "dànshì",
+    "meaning": "but",
+    "audio_file": "audio_180.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "meaning": "from",
+    "audio_file": "audio_181.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "对",
+    "pinyin": "duì",
+    "meaning": "right",
+    "audio_file": "audio_182.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "此",
+    "pinyin": "cǐ",
+    "meaning": "this",
+    "audio_file": "audio_183.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "向",
+    "pinyin": "xiàng",
+    "meaning": "towards",
+    "audio_file": "audio_184.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "离",
+    "pinyin": "lí",
+    "meaning": "leave",
+    "audio_file": "audio_185.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "得",
+    "pinyin": "de",
+    "meaning": "",
+    "audio_file": "audio_186.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "meaning": "",
+    "audio_file": "audio_187.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "过",
+    "pinyin": "guo",
+    "meaning": "",
+    "audio_file": "audio_188.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "meaning": "",
+    "audio_file": "audio_189.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "饭馆",
+    "pinyin": "fàn",
+    "meaning": "guǎn restaunt",
+    "audio_file": "audio_190.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "meaning": "airport",
+    "audio_file": "audio_191.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "教室",
+    "pinyin": "jiàoshì",
+    "meaning": "classroom",
+    "audio_file": "audio_192.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "房间",
+    "pinyin": "fángjiān",
+    "meaning": "room",
+    "audio_file": "audio_193.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "路",
+    "pinyin": "lù",
+    "meaning": "road",
+    "audio_file": "audio_194.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "左边",
+    "pinyin": "zuǒbiān",
+    "meaning": "left",
+    "audio_file": "audio_195.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "右边",
+    "pinyin": "yòubiān",
+    "meaning": "right",
+    "audio_file": "audio_196.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "外",
+    "pinyin": "wài",
+    "meaning": "out",
+    "audio_file": "audio_197.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "旁边",
+    "pinyin": "pángbiān",
+    "meaning": "side",
+    "audio_file": "audio_198.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "早上",
+    "pinyin": "zǎoshàng",
+    "meaning": "morning",
+    "audio_file": "audio_199.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "晚上",
+    "pinyin": "wǎnshàng",
+    "meaning": "night",
+    "audio_file": "audio_200.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "小时",
+    "pinyin": "xiǎoshí",
+    "meaning": "hour",
+    "audio_file": "audio_201.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "time",
+    "audio_file": "audio_202.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "去年",
+    "pinyin": "qùnián",
+    "meaning": "last year",
+    "audio_file": "audio_203.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "hào",
+    "meaning": "number",
+    "audio_file": "audio_204.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "生日",
+    "pinyin": "shēngrì",
+    "meaning": "birthday",
+    "audio_file": "audio_205.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "meaning": "brother",
+    "audio_file": "audio_206.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "meaning": "sister",
+    "audio_file": "audio_207.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "meaning": "younger brother",
+    "audio_file": "audio_208.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": "sis",
+    "audio_file": "audio_209.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "丈夫",
+    "pinyin": "zhàngfu",
+    "meaning": "husband",
+    "audio_file": "audio_210.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "wife",
+    "audio_file": "audio_211.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "孩子",
+    "pinyin": "háizi",
+    "meaning": "child",
+    "audio_file": "audio_212.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "男人",
+    "pinyin": "nánrén",
+    "meaning": "man",
+    "audio_file": "audio_213.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "女人",
+    "pinyin": "nǚrén",
+    "meaning": "woman",
+    "audio_file": "audio_214.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "服务员",
+    "pinyin": "fúwùyuán",
+    "meaning": "waiter",
+    "audio_file": "audio_215.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "meaning": "fish",
+    "audio_file": "audio_216.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "羊肉",
+    "pinyin": "yángròu",
+    "meaning": "mutton",
+    "audio_file": "audio_217.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "牛奶",
+    "pinyin": "niúnǎi",
+    "meaning": "milk",
+    "audio_file": "audio_218.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "鸡蛋",
+    "pinyin": "jīdàn",
+    "meaning": "egg",
+    "audio_file": "audio_219.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "watermelon",
+    "audio_file": "audio_220.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "coffee",
+    "audio_file": "audio_221.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "自行车",
+    "pinyin": "zìxíngchē",
+    "meaning": "bike",
+    "audio_file": "audio_222.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "船",
+    "pinyin": "chuán",
+    "meaning": "boat",
+    "audio_file": "audio_223.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "雪",
+    "pinyin": "xué",
+    "meaning": "snow",
+    "audio_file": "audio_224.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "药",
+    "pinyin": "yào",
+    "meaning": "medicine",
+    "audio_file": "audio_225.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "手机",
+    "pinyin": "shǒujī",
+    "meaning": "phone",
+    "audio_file": "audio_226.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "手表",
+    "pinyin": "shǒubiǎo",
+    "meaning": "watch",
+    "audio_file": "audio_227.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "眼睛",
+    "pinyin": "yǎnjīng",
+    "meaning": "eye",
+    "audio_file": "audio_228.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "身体",
+    "pinyin": "shēntǐ",
+    "meaning": "body",
+    "audio_file": "audio_229.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "公共汽车",
+    "pinyin": "gōnggòngqìchē",
+    "meaning": "bus",
+    "audio_file": "audio_230.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "meaning": "newspaper",
+    "audio_file": "audio_231.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōōzi",
+    "meaning": "desk",
+    "audio_file": "audio_232.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "门",
+    "pinyin": "mén",
+    "meaning": "door",
+    "audio_file": "audio_233.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "题",
+    "pinyin": "tí",
+    "meaning": "topic",
+    "audio_file": "audio_234.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "课",
+    "pinyin": "kè",
+    "meaning": "lesson",
+    "audio_file": "audio_235.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "meaning": "surname",
+    "audio_file": "audio_236.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "问题",
+    "pinyin": "wèntí",
+    "meaning": "question",
+    "audio_file": "audio_237.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "事情",
+    "pinyin": "shìqing",
+    "meaning": "matter",
+    "audio_file": "audio_238.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "考试",
+    "pinyin": "kǎoshì",
+    "meaning": "exam",
+    "audio_file": "audio_239.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "票",
+    "pinyin": "piào",
+    "meaning": "ticket",
+    "audio_file": "audio_240.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "意思",
+    "pinyin": "yìsi",
+    "meaning": "meaning",
+    "audio_file": "audio_241.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "颜色",
+    "pinyin": "yánsè",
+    "meaning": "color",
+    "audio_file": "audio_242.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "欢迎",
+    "pinyin": "huānyíng",
+    "meaning": "welcome",
+    "audio_file": "audio_243.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "meaning": "ask",
+    "audio_file": "audio_244.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "meaning": "walk",
+    "audio_file": "audio_245.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "meaning": "enter",
+    "audio_file": "audio_246.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "meaning": "come",
+    "audio_file": "audio_247.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "跑步",
+    "pinyin": "pǎobù",
+    "meaning": "run",
+    "audio_file": "audio_248.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "到",
+    "pinyin": "dào",
+    "meaning": "arrive",
+    "audio_file": "audio_249.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "meaning": "wear",
+    "audio_file": "audio_250.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "meaning": "wash",
+    "audio_file": "audio_251.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "meaning": "give",
+    "audio_file": "audio_252.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "meaning": "find",
+    "audio_file": "audio_253.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "meaning": "understand",
+    "audio_file": "audio_254.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "meaning": "smile",
+    "audio_file": "audio_255.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "回答",
+    "pinyin": "huídá",
+    "meaning": "answer",
+    "audio_file": "audio_256.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "告诉",
+    "pinyin": "gàosù",
+    "meaning": "tell",
+    "audio_file": "audio_257.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "准备",
+    "pinyin": "zhǔnbèi",
+    "meaning": "prepare",
+    "audio_file": "audio_258.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "开始",
+    "pinyin": "kāishǐ",
+    "meaning": "begin",
+    "audio_file": "audio_259.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "介绍",
+    "pinyin": "jièshào",
+    "meaning": "introduce",
+    "audio_file": "audio_260.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "meaning": "help",
+    "audio_file": "audio_261.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "meaning": "play",
+    "audio_file": "audio_262.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "meaning": "present",
+    "audio_file": "audio_263.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "等",
+    "pinyin": "děng",
+    "meaning": "wait",
+    "audio_file": "audio_264.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "meaning": "let",
+    "audio_file": "audio_265.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "起床",
+    "pinyin": "qǐchuáng",
+    "meaning": "get up",
+    "audio_file": "audio_266.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "meaning": "sing",
+    "audio_file": "audio_267.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "跳舞",
+    "pinyin": "tiàowǔ",
+    "meaning": "dance",
+    "audio_file": "audio_268.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "travel",
+    "audio_file": "audio_269.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "上班",
+    "pinyin": "shàngbān",
+    "meaning": "be on duty",
+    "audio_file": "audio_270.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "生病",
+    "pinyin": "shēngbìng",
+    "meaning": "fall ill",
+    "audio_file": "audio_271.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "休息",
+    "pinyin": "xiūxi",
+    "meaning": "rest",
+    "audio_file": "audio_272.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "运动",
+    "pinyin": "yùndòng",
+    "meaning": "exercise",
+    "audio_file": "audio_273.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "游泳",
+    "pinyin": "yóuyǒng",
+    "meaning": "swim",
+    "audio_file": "audio_274.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "踢足球",
+    "pinyin": "tīzúqiú",
+    "meaning": "play football",
+    "audio_file": "audio_275.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "打篮球",
+    "pinyin": "dǎlánqiú",
+    "meaning": "play basketball",
+    "audio_file": "audio_276.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "完",
+    "pinyin": "wán",
+    "meaning": "finish",
+    "audio_file": "audio_277.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "觉得",
+    "pinyin": "juédé",
+    "meaning": "think",
+    "audio_file": "audio_278.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "meaning": "know",
+    "audio_file": "audio_279.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "希望",
+    "pinyin": "xīwàng",
+    "meaning": "hope",
+    "audio_file": "audio_280.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "meaning": "can",
+    "audio_file": "audio_281.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "meaning": "ask for",
+    "audio_file": "audio_282.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "可能",
+    "pinyin": "kěnéng",
+    "meaning": "may",
+    "audio_file": "audio_283.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "meaning": "tall",
+    "audio_file": "audio_284.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "meaning": "red",
+    "audio_file": "audio_285.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "meaning": "white",
+    "audio_file": "audio_286.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "meaning": "black",
+    "audio_file": "audio_287.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "meaning": "busy",
+    "audio_file": "audio_288.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "meaning": "fast",
+    "audio_file": "audio_289.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "meaning": "slow",
+    "audio_file": "audio_290.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "meaning": "far",
+    "audio_file": "audio_291.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "meaning": "close",
+    "audio_file": "audio_292.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "好吃",
+    "pinyin": "hǎochī",
+    "meaning": "delicious",
+    "audio_file": "audio_293.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "meaning": "tire",
+    "audio_file": "audio_294.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "meaning": "long",
+    "audio_file": "audio_295.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "meaning": "new",
+    "audio_file": "audio_296.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "meaning": "expensive",
+    "audio_file": "audio_297.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "便宜",
+    "pinyin": "piányi",
+    "meaning": "cheap",
+    "audio_file": "audio_298.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "meaning": "fine",
+    "audio_file": "audio_299.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "阴",
+    "pinyin": "yīn",
+    "meaning": "cloudy",
+    "audio_file": "audio_300.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "meaning": "wrong",
+    "audio_file": "audio_301.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "happy",
+    "audio_file": "audio_302.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "阿姨",
+    "pinyin": "āyí",
+    "meaning": "aunt",
+    "audio_file": "audio_303.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "啊",
+    "pinyin": "a",
+    "meaning": "ah",
+    "audio_file": "audio_304.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "矮",
+    "pinyin": "ǎi",
+    "meaning": "short",
+    "audio_file": "audio_305.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "爱好",
+    "pinyin": "àihào",
+    "meaning": "hobby",
+    "audio_file": "audio_306.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "安静",
+    "pinyin": "ānjìng",
+    "meaning": "quiet",
+    "audio_file": "audio_307.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "meaning": "hold",
+    "audio_file": "audio_308.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "班",
+    "pinyin": "bān",
+    "meaning": "class",
+    "audio_file": "audio_309.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "meaning": "turn; pull",
+    "audio_file": "audio_310.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "meaning": "half",
+    "audio_file": "audio_311.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "办法",
+    "pinyin": "bànfǎ",
+    "meaning": "way",
+    "audio_file": "audio_312.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "办公室",
+    "pinyin": "bàngōngshì",
+    "meaning": "office",
+    "audio_file": "audio_313.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "帮忙",
+    "pinyin": "bāngmáng",
+    "meaning": "help",
+    "audio_file": "audio_314.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "meaning": "package",
+    "audio_file": "audio_315.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "饱",
+    "pinyin": "bǎo",
+    "meaning": "full",
+    "audio_file": "audio_316.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "北方",
+    "pinyin": "běifāng",
+    "meaning": "north",
+    "audio_file": "audio_317.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "被",
+    "pinyin": "bèi",
+    "meaning": "cover",
+    "audio_file": "audio_318.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "鼻子",
+    "pinyin": "bízi",
+    "meaning": "nose",
+    "audio_file": "audio_319.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "meaning": "than",
+    "audio_file": "audio_320.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "比较",
+    "pinyin": "bǐjiào",
+    "meaning": "compare",
+    "audio_file": "audio_321.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "比赛",
+    "pinyin": "bǐsài",
+    "meaning": "competition",
+    "audio_file": "audio_322.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "必须",
+    "pinyin": "bìxū",
+    "meaning": "must",
+    "audio_file": "audio_323.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "变化",
+    "pinyin": "biànhuà",
+    "meaning": "change",
+    "audio_file": "audio_324.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "表示",
+    "pinyin": "biǎoshì",
+    "meaning": "express",
+    "audio_file": "audio_325.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "表演",
+    "pinyin": "biǎoyǎn",
+    "meaning": "perform",
+    "audio_file": "audio_326.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "别人",
+    "pinyin": "biéren",
+    "meaning": "other people",
+    "audio_file": "audio_327.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "宾馆",
+    "pinyin": "bīnguǎn",
+    "meaning": "hotel",
+    "audio_file": "audio_328.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "冰箱",
+    "pinyin": "bīngxiāng",
+    "meaning": "refrigerator",
+    "audio_file": "audio_329.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "才",
+    "pinyin": "cái",
+    "meaning": "just",
+    "audio_file": "audio_330.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "菜单",
+    "pinyin": "càidān",
+    "meaning": "menu",
+    "audio_file": "audio_331.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "参加",
+    "pinyin": "cānjiā",
+    "meaning": "participate in",
+    "audio_file": "audio_332.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "草",
+    "pinyin": "cǎo",
+    "meaning": "grass",
+    "audio_file": "audio_333.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "层",
+    "pinyin": "céng",
+    "meaning": "layer",
+    "audio_file": "audio_334.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "差",
+    "pinyin": "chà",
+    "meaning": "difference",
+    "audio_file": "audio_335.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "超市",
+    "pinyin": "chāoshì",
+    "meaning": "supermarket",
+    "audio_file": "audio_336.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "衬衫",
+    "pinyin": "chènshān",
+    "meaning": "shirt",
+    "audio_file": "audio_337.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "成绩",
+    "pinyin": "chéngjì",
+    "meaning": "achievement",
+    "audio_file": "audio_338.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "城市",
+    "pinyin": "chéngshì",
+    "meaning": "city",
+    "audio_file": "audio_339.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "迟到",
+    "pinyin": "chídào",
+    "meaning": "late",
+    "audio_file": "audio_340.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "出现",
+    "pinyin": "chūxiàn",
+    "meaning": "appear",
+    "audio_file": "audio_341.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "厨房",
+    "pinyin": "chúfáng",
+    "meaning": "kitchen",
+    "audio_file": "audio_342.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "除了",
+    "pinyin": "chúle",
+    "meaning": "except",
+    "audio_file": "audio_343.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "春",
+    "pinyin": "chūn",
+    "meaning": "spring",
+    "audio_file": "audio_344.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "词语",
+    "pinyin": "cíyǔ",
+    "meaning": "terms",
+    "audio_file": "audio_345.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "聪明",
+    "pinyin": "cōngming",
+    "meaning": "clever",
+    "audio_file": "audio_346.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "打扫",
+    "pinyin": "dǎsǎo",
+    "meaning": "clean",
+    "audio_file": "audio_347.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "打算",
+    "pinyin": "dǎsuàn",
+    "meaning": "plan",
+    "audio_file": "audio_348.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "带",
+    "pinyin": "dài",
+    "meaning": "belt",
+    "audio_file": "audio_349.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "担心",
+    "pinyin": "dānxīn",
+    "meaning": "worry",
+    "audio_file": "audio_350.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "蛋糕",
+    "pinyin": "dàngāo",
+    "meaning": "cake",
+    "audio_file": "audio_351.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "当然",
+    "pinyin": "dāngrán",
+    "meaning": "of course",
+    "audio_file": "audio_352.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "地",
+    "pinyin": "de",
+    "meaning": "",
+    "audio_file": "audio_353.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "灯",
+    "pinyin": "dēng",
+    "meaning": "lamp",
+    "audio_file": "audio_354.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "低",
+    "pinyin": "dī",
+    "meaning": "low",
+    "audio_file": "audio_355.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "地方",
+    "pinyin": "dìfang",
+    "meaning": "local",
+    "audio_file": "audio_356.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "地铁",
+    "pinyin": "dìtiě",
+    "meaning": "metro",
+    "audio_file": "audio_357.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "地图",
+    "pinyin": "dìtú",
+    "meaning": "map",
+    "audio_file": "audio_358.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "电梯",
+    "pinyin": "diàntī",
+    "meaning": "elevator",
+    "audio_file": "audio_359.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "电子邮件",
+    "pinyin": "diànzǐyóujiàn",
+    "meaning": "email",
+    "audio_file": "audio_360.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "meaning": "east",
+    "audio_file": "audio_361.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "冬",
+    "pinyin": "dōng",
+    "meaning": "winter",
+    "audio_file": "audio_362.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "动物",
+    "pinyin": "dòngwù",
+    "meaning": "animal",
+    "audio_file": "audio_363.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "meaning": "short",
+    "audio_file": "audio_364.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "段",
+    "pinyin": "duàn",
+    "meaning": "paragraph",
+    "audio_file": "audio_365.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "锻炼",
+    "pinyin": "duànliàn",
+    "meaning": "physical exercise",
+    "audio_file": "audio_366.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "多么",
+    "pinyin": "duōme",
+    "meaning": "what",
+    "audio_file": "audio_367.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "饿",
+    "pinyin": "è",
+    "meaning": "hungry",
+    "audio_file": "audio_368.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "而且",
+    "pinyin": "érqiě",
+    "meaning": "and",
+    "audio_file": "audio_369.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "耳朵",
+    "pinyin": "ěrduo",
+    "meaning": "ears",
+    "audio_file": "audio_370.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "发烧",
+    "pinyin": "fāshāo",
+    "meaning": "have a fever",
+    "audio_file": "audio_371.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "发现",
+    "pinyin": "fāxiàn",
+    "meaning": "find",
+    "audio_file": "audio_372.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "方便",
+    "pinyin": "fāngbiàn",
+    "meaning": "convenient",
+    "audio_file": "audio_373.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "meaning": "discharge",
+    "audio_file": "audio_374.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "放心",
+    "pinyin": "fàngxīn",
+    "meaning": "don’t worry",
+    "audio_file": "audio_375.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "meaning": "branch",
+    "audio_file": "audio_376.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "nearby",
+    "audio_file": "audio_377.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "复习",
+    "pinyin": "fùxí",
+    "meaning": "review",
+    "audio_file": "audio_378.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "干净",
+    "pinyin": "gānjìng",
+    "meaning": "clean",
+    "audio_file": "audio_379.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "敢",
+    "pinyin": "gǎn",
+    "meaning": "dare",
+    "audio_file": "audio_380.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "感冒",
+    "pinyin": "gǎnmào",
+    "meaning": "get a cold",
+    "audio_file": "audio_381.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "刚才",
+    "pinyin": "gāngcái",
+    "meaning": "just",
+    "audio_file": "audio_382.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "meaning": "with",
+    "audio_file": "audio_383.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "meaning": "according to",
+    "audio_file": "audio_384.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "meaning": "more",
+    "audio_file": "audio_385.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "公司",
+    "pinyin": "gōngsī",
+    "meaning": "company",
+    "audio_file": "audio_386.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "公园",
+    "pinyin": "gōngyuán",
+    "meaning": "park",
+    "audio_file": "audio_387.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "故事",
+    "pinyin": "gùshi",
+    "meaning": "story",
+    "audio_file": "audio_388.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "刮风",
+    "pinyin": "guāfēng",
+    "meaning": "windy",
+    "audio_file": "audio_389.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "关",
+    "pinyin": "guān",
+    "meaning": "shut",
+    "audio_file": "audio_390.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "关系",
+    "pinyin": "guānxì",
+    "meaning": "relationship",
+    "audio_file": "audio_391.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "关心",
+    "pinyin": "guānxīn",
+    "meaning": "care for",
+    "audio_file": "audio_392.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "关于",
+    "pinyin": "guānyú",
+    "meaning": "about",
+    "audio_file": "audio_393.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "国家",
+    "pinyin": "guójiā",
+    "meaning": "country",
+    "audio_file": "audio_394.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "果汁",
+    "pinyin": "guǒzhī",
+    "meaning": "fruit juice",
+    "audio_file": "audio_395.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "过去",
+    "pinyin": "guòqù",
+    "meaning": "past times",
+    "audio_file": "audio_396.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "还是",
+    "pinyin": "háishì",
+    "meaning": "still",
+    "audio_file": "audio_397.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "害怕",
+    "pinyin": "hàipà",
+    "meaning": "Fear",
+    "audio_file": "audio_398.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "河",
+    "pinyin": "hé",
+    "meaning": "river",
+    "audio_file": "audio_399.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "黑板",
+    "pinyin": "hēibǎn",
+    "meaning": "blackboard",
+    "audio_file": "audio_400.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "passport",
+    "audio_file": "audio_401.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "花 (动)",
+    "pinyin": "huā",
+    "meaning": "flower (move)",
+    "audio_file": "audio_402.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "花园",
+    "pinyin": "huāyuán",
+    "meaning": "garden",
+    "audio_file": "audio_403.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "画",
+    "pinyin": "huà",
+    "meaning": "painting",
+    "audio_file": "audio_404.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "meaning": "bad",
+    "audio_file": "audio_405.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "huán",
+    "meaning": "still",
+    "audio_file": "audio_406.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "环境",
+    "pinyin": "huánjìng",
+    "meaning": "environment",
+    "audio_file": "audio_407.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "换",
+    "pinyin": "huàn",
+    "meaning": "change",
+    "audio_file": "audio_408.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "meaning": "yellow",
+    "audio_file": "audio_409.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "会议",
+    "pinyin": "huìyì",
+    "meaning": "meeting",
+    "audio_file": "audio_410.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "或者",
+    "pinyin": "huòzhě",
+    "meaning": "perhaps",
+    "audio_file": "audio_411.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "几乎",
+    "pinyin": "jīhū",
+    "meaning": "almost",
+    "audio_file": "audio_412.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "机会",
+    "pinyin": "jīhuì",
+    "meaning": "opportunity",
+    "audio_file": "audio_413.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "极",
+    "pinyin": "jí",
+    "meaning": "extremely",
+    "audio_file": "audio_414.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "记得",
+    "pinyin": "jìde",
+    "meaning": "remember",
+    "audio_file": "audio_415.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "季节",
+    "pinyin": "jìjié",
+    "meaning": "season",
+    "audio_file": "audio_416.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "检查",
+    "pinyin": "jiǎnchá",
+    "meaning": "inspect",
+    "audio_file": "audio_417.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "简单",
+    "pinyin": "jiǎndān",
+    "meaning": "simple",
+    "audio_file": "audio_418.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "健康",
+    "pinyin": "jiànkāng",
+    "meaning": "healthy",
+    "audio_file": "audio_419.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "见面",
+    "pinyin": "jiànmiàn",
+    "meaning": "meet",
+    "audio_file": "audio_420.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "讲",
+    "pinyin": "jiǎng",
+    "meaning": "speak",
+    "audio_file": "audio_421.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "meaning": "teach",
+    "audio_file": "audio_422.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "meaning": "horn",
+    "audio_file": "audio_423.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "meaning": "foot",
+    "audio_file": "audio_424.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "meaning": "meet",
+    "audio_file": "audio_425.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "街道",
+    "pinyin": "jiēdào",
+    "meaning": "street",
+    "audio_file": "audio_426.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "结婚",
+    "pinyin": "jiéhūn",
+    "meaning": "marry",
+    "audio_file": "audio_427.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "结束",
+    "pinyin": "jiéshù",
+    "meaning": "end",
+    "audio_file": "audio_428.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "节目",
+    "pinyin": "jiémù",
+    "meaning": "program",
+    "audio_file": "audio_429.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "节日",
+    "pinyin": "jiérì",
+    "meaning": "festival",
+    "audio_file": "audio_430.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "解决",
+    "pinyin": "jiějué",
+    "meaning": "solve",
+    "audio_file": "audio_431.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "借",
+    "pinyin": "jiè",
+    "meaning": "borrow",
+    "audio_file": "audio_432.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "经常",
+    "pinyin": "jīngcháng",
+    "meaning": "often",
+    "audio_file": "audio_433.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "经过",
+    "pinyin": "jīngguò",
+    "meaning": "after",
+    "audio_file": "audio_434.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "经理",
+    "pinyin": "jīnglǐ",
+    "meaning": "manager",
+    "audio_file": "audio_435.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "久",
+    "pinyin": "jiǔ",
+    "meaning": "long",
+    "audio_file": "audio_436.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "meaning": "used",
+    "audio_file": "audio_437.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "举行",
+    "pinyin": "jǔxíng",
+    "meaning": "hold",
+    "audio_file": "audio_438.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "句子",
+    "pinyin": "jùzi",
+    "meaning": "sentence",
+    "audio_file": "audio_439.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "决定",
+    "pinyin": "juédìng",
+    "meaning": "decision",
+    "audio_file": "audio_440.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "渴",
+    "pinyin": "kě",
+    "meaning": "thirsty",
+    "audio_file": "audio_441.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "可爱",
+    "pinyin": "kě’ài",
+    "meaning": "lovely",
+    "audio_file": "audio_442.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "刻",
+    "pinyin": "kè",
+    "meaning": "moment",
+    "audio_file": "audio_443.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "客人",
+    "pinyin": "kèrén",
+    "meaning": "guest",
+    "audio_file": "audio_444.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "空调",
+    "pinyin": "kōngtiáo",
+    "meaning": "air conditioner",
+    "audio_file": "audio_445.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "meaning": "mouth",
+    "audio_file": "audio_446.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "哭",
+    "pinyin": "kū",
+    "meaning": "cry",
+    "audio_file": "audio_447.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "裤子",
+    "pinyin": "kùzi",
+    "meaning": "trousers",
+    "audio_file": "audio_448.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "筷子",
+    "pinyin": "kuàizi",
+    "meaning": "chopsticks",
+    "audio_file": "audio_449.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "meaning": "blue",
+    "audio_file": "audio_450.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "meaning": "old",
+    "audio_file": "audio_451.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "离开",
+    "pinyin": "líkāi",
+    "meaning": "leave",
+    "audio_file": "audio_452.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "礼物",
+    "pinyin": "lǐwù",
+    "meaning": "gift",
+    "audio_file": "audio_453.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "历史",
+    "pinyin": "lìshǐ",
+    "meaning": "history",
+    "audio_file": "audio_454.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "meaning": "face",
+    "audio_file": "audio_455.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "练习",
+    "pinyin": "liànxí",
+    "meaning": "practice",
+    "audio_file": "audio_456.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "meaning": "car",
+    "audio_file": "audio_457.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "了解",
+    "pinyin": "liǎojiě",
+    "meaning": "understand",
+    "audio_file": "audio_458.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "邻居",
+    "pinyin": "línjū",
+    "meaning": "neighbor",
+    "audio_file": "audio_459.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "楼",
+    "pinyin": "lóu",
+    "meaning": "floor",
+    "audio_file": "audio_460.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "meaning": "green",
+    "audio_file": "audio_461.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "meaning": "horse",
+    "audio_file": "audio_462.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "马上",
+    "pinyin": "mǎshàng",
+    "meaning": "soon; right off",
+    "audio_file": "audio_463.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "meaning": "sell",
+    "audio_file": "audio_464.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "满意",
+    "pinyin": "mǎnyì",
+    "meaning": "satisfied",
+    "audio_file": "audio_465.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "帽子",
+    "pinyin": "màozi",
+    "meaning": "hat",
+    "audio_file": "audio_466.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "meaning": "rice",
+    "audio_file": "audio_467.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "bread",
+    "audio_file": "audio_468.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "面条",
+    "pinyin": "miàntiáo",
+    "meaning": "noodle",
+    "audio_file": "audio_469.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "明白",
+    "pinyin": "míngbai",
+    "meaning": "clear",
+    "audio_file": "audio_470.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "meaning": "take",
+    "audio_file": "audio_471.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "哪 (哪儿)",
+    "pinyin": "nǎ(nǎr)",
+    "meaning": "which (where)",
+    "audio_file": "audio_472.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "那 (那儿)",
+    "pinyin": "nà(nàr)",
+    "meaning": "that (there)",
+    "audio_file": "audio_473.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "奶奶",
+    "pinyin": "nǎinai",
+    "meaning": "grandma",
+    "audio_file": "audio_474.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "南",
+    "pinyin": "nán",
+    "meaning": "south",
+    "audio_file": "audio_475.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "难",
+    "pinyin": "nán",
+    "meaning": "disaster; blame",
+    "audio_file": "audio_476.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "难过",
+    "pinyin": "nánguò",
+    "meaning": "to feel sorry",
+    "audio_file": "audio_477.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "年级",
+    "pinyin": "niánjí",
+    "meaning": "grade",
+    "audio_file": "audio_478.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "年轻",
+    "pinyin": "niánqīng",
+    "meaning": "young",
+    "audio_file": "audio_479.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "bird",
+    "audio_file": "audio_480.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "strive, hard working",
+    "audio_file": "audio_481.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "爬山",
+    "pinyin": "páshān",
+    "meaning": "mountain climbing",
+    "audio_file": "audio_482.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "盘子",
+    "pinyin": "pánzi",
+    "meaning": "plate",
+    "audio_file": "audio_483.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "胖",
+    "pinyin": "pàng",
+    "meaning": "fat",
+    "audio_file": "audio_484.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "啤酒",
+    "pinyin": "píjiǔ",
+    "meaning": "beer",
+    "audio_file": "audio_485.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "葡萄",
+    "pinyin": "pútao",
+    "meaning": "grape",
+    "audio_file": "audio_486.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "meaning": "Mandarin",
+    "audio_file": "audio_487.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "其实",
+    "pinyin": "qíshí",
+    "meaning": "actually",
+    "audio_file": "audio_488.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "其他",
+    "pinyin": "qítā",
+    "meaning": "other",
+    "audio_file": "audio_489.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "骑",
+    "pinyin": "qí",
+    "meaning": "ride",
+    "audio_file": "audio_490.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "奇怪",
+    "pinyin": "qíguài",
+    "meaning": "strange",
+    "audio_file": "audio_491.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "铅笔",
+    "pinyin": "qiānbǐ",
+    "meaning": "pencil",
+    "audio_file": "audio_492.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "清楚",
+    "pinyin": "qīngchu",
+    "meaning": "clear",
+    "audio_file": "audio_493.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "秋",
+    "pinyin": "qiū",
+    "meaning": "autumn",
+    "audio_file": "audio_494.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "裙子",
+    "pinyin": "qúnzi",
+    "meaning": "skirt",
+    "audio_file": "audio_495.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "然后",
+    "pinyin": "ránhòu",
+    "meaning": "then",
+    "audio_file": "audio_496.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "热情",
+    "pinyin": "rèqíng",
+    "meaning": "enthusiasm",
+    "audio_file": "audio_497.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "认为",
+    "pinyin": "rènwéi",
+    "meaning": "think",
+    "audio_file": "audio_498.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "认真",
+    "pinyin": "rènzhēn",
+    "meaning": "earnest",
+    "audio_file": "audio_499.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "容易",
+    "pinyin": "róngyì",
+    "meaning": "easily",
+    "audio_file": "audio_500.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "如果",
+    "pinyin": "rúguǒ",
+    "meaning": "if",
+    "audio_file": "audio_501.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "meaning": "umbrella",
+    "audio_file": "audio_502.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "上网",
+    "pinyin": "shàngwǎng",
+    "meaning": "surf the Internet",
+    "audio_file": "audio_503.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "生气",
+    "pinyin": "shēngqì",
+    "meaning": "get angry",
+    "audio_file": "audio_504.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "声音",
+    "pinyin": "shēngyīn",
+    "meaning": "voice",
+    "audio_file": "audio_505.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "meaning": "send",
+    "audio_file": "audio_506.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "世界",
+    "pinyin": "shìjiè",
+    "meaning": "world",
+    "audio_file": "audio_507.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "瘦",
+    "pinyin": "shòu",
+    "meaning": "thin",
+    "audio_file": "audio_508.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "comfortable",
+    "audio_file": "audio_509.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "叔叔",
+    "pinyin": "shūshu",
+    "meaning": "uncle",
+    "audio_file": "audio_510.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "树",
+    "pinyin": "shù",
+    "meaning": "tree",
+    "audio_file": "audio_511.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "数学",
+    "pinyin": "shùxué",
+    "meaning": "mathematics",
+    "audio_file": "audio_512.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "刷牙",
+    "pinyin": "shuāyá",
+    "meaning": "brush one’s teeth",
+    "audio_file": "audio_513.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "双",
+    "pinyin": "shuāng",
+    "meaning": "double",
+    "audio_file": "audio_514.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "水平",
+    "pinyin": "shuǐpíng",
+    "meaning": "level",
+    "audio_file": "audio_515.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "司机",
+    "pinyin": "sījī",
+    "meaning": "driver",
+    "audio_file": "audio_516.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "虽然",
+    "pinyin": "suīrán",
+    "meaning": "although",
+    "audio_file": "audio_517.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "sunlight",
+    "audio_file": "audio_518.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "meaning": "sugar",
+    "audio_file": "audio_519.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "特别",
+    "pinyin": "tèbié",
+    "meaning": "especially",
+    "audio_file": "audio_520.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "疼",
+    "pinyin": "téng",
+    "meaning": "pain, hurt",
+    "audio_file": "audio_521.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "提高",
+    "pinyin": "tígāo",
+    "meaning": "increase",
+    "audio_file": "audio_522.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "体育",
+    "pinyin": "tǐyù",
+    "meaning": "sports",
+    "audio_file": "audio_523.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "meaning": "sweet",
+    "audio_file": "audio_524.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "meaning": "strip",
+    "audio_file": "audio_525.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaning": "hear",
+    "audio_file": "audio_526.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "同事",
+    "pinyin": "tóngshì",
+    "meaning": "colleague",
+    "audio_file": "audio_527.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "agree",
+    "audio_file": "audio_528.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "头发",
+    "pinyin": "tóufa",
+    "meaning": "hair",
+    "audio_file": "audio_529.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "突然",
+    "pinyin": "tūrán",
+    "meaning": "suddenly",
+    "audio_file": "audio_530.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "图书馆",
+    "pinyin": "túshūguǎn",
+    "meaning": "library",
+    "audio_file": "audio_531.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "腿",
+    "pinyin": "tuǐ",
+    "meaning": "leg",
+    "audio_file": "audio_532.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "完成",
+    "pinyin": "wánchéng",
+    "meaning": "complete",
+    "audio_file": "audio_533.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "meaning": "bowl",
+    "audio_file": "audio_534.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "meaning": "ten thousand",
+    "audio_file": "audio_535.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "忘记",
+    "pinyin": "wàngjì",
+    "meaning": "forget",
+    "audio_file": "audio_536.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "为",
+    "pinyin": "wèi",
+    "meaning": "by",
+    "audio_file": "audio_537.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "为了",
+    "pinyin": "wèile",
+    "meaning": "in order to",
+    "audio_file": "audio_538.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "meaning": "position",
+    "audio_file": "audio_539.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "文化",
+    "pinyin": "wénhuà",
+    "meaning": "culture",
+    "audio_file": "audio_540.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "西",
+    "pinyin": "xī",
+    "meaning": "west",
+    "audio_file": "audio_541.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "habit",
+    "audio_file": "audio_542.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "meaning": "restroom",
+    "audio_file": "audio_543.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "洗澡",
+    "pinyin": "xǐzǎo",
+    "meaning": "take a shower",
+    "audio_file": "audio_544.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "夏",
+    "pinyin": "xià",
+    "meaning": "summer",
+    "audio_file": "audio_545.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "先",
+    "pinyin": "xiān",
+    "meaning": "before",
+    "audio_file": "audio_546.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "meaning": "banana",
+    "audio_file": "audio_547.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "相同",
+    "pinyin": "xiāngtóng",
+    "meaning": "identical",
+    "audio_file": "audio_548.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "相信",
+    "pinyin": "xiāngxìn",
+    "meaning": "believe",
+    "audio_file": "audio_549.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "像",
+    "pinyin": "xiàng",
+    "meaning": "image",
+    "audio_file": "audio_550.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "小心",
+    "pinyin": "xiǎoxīn",
+    "meaning": "look out",
+    "audio_file": "audio_551.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "校长",
+    "pinyin": "xiàozhǎng",
+    "meaning": "principal",
+    "audio_file": "audio_552.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "meaning": "shoes",
+    "audio_file": "audio_553.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "新闻",
+    "pinyin": "xīnwén",
+    "meaning": "news",
+    "audio_file": "audio_554.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "新鲜",
+    "pinyin": "xīnxiān",
+    "meaning": "fresh",
+    "audio_file": "audio_555.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "meaning": "letter",
+    "audio_file": "audio_556.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "行李箱",
+    "pinyin": "xínglixiāng",
+    "meaning": "trunk",
+    "audio_file": "audio_557.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "兴趣",
+    "pinyin": "xìngqù",
+    "meaning": "interest",
+    "audio_file": "audio_558.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "熊猫",
+    "pinyin": "xióngmāo",
+    "meaning": "panda",
+    "audio_file": "audio_559.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "需要",
+    "pinyin": "xūyào",
+    "meaning": "need",
+    "audio_file": "audio_560.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning": "choice",
+    "audio_file": "audio_561.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "眼镜",
+    "pinyin": "yǎnjìng",
+    "meaning": "glasses",
+    "audio_file": "audio_562.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "要求",
+    "pinyin": "yāoqiú",
+    "meaning": "requirement",
+    "audio_file": "audio_563.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "爷爷",
+    "pinyin": "yéye",
+    "meaning": "grandpa",
+    "audio_file": "audio_564.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一定",
+    "pinyin": "yídìng",
+    "meaning": "certain",
+    "audio_file": "audio_565.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一共",
+    "pinyin": "yígòng",
+    "meaning": "altogether",
+    "audio_file": "audio_566.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一会儿",
+    "pinyin": "yíhuìr",
+    "meaning": "a little while",
+    "audio_file": "audio_567.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一样",
+    "pinyin": "yíyàng",
+    "meaning": "equally",
+    "audio_file": "audio_568.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "以后",
+    "pinyin": "yǐhòu",
+    "meaning": "In the future",
+    "audio_file": "audio_569.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "以前",
+    "pinyin": "yǐqián",
+    "meaning": "before",
+    "audio_file": "audio_570.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "以为",
+    "pinyin": "yǐwéi",
+    "meaning": "think",
+    "audio_file": "audio_571.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一般",
+    "pinyin": "yìbān",
+    "meaning": "commonly",
+    "audio_file": "audio_572.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一边",
+    "pinyin": "yìbiān",
+    "meaning": "one side",
+    "audio_file": "audio_573.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "一直",
+    "pinyin": "yìzhí",
+    "meaning": "always",
+    "audio_file": "audio_574.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "音乐",
+    "pinyin": "yīnyuè",
+    "meaning": "music",
+    "audio_file": "audio_575.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "银行",
+    "pinyin": "yínháng",
+    "meaning": "bank",
+    "audio_file": "audio_576.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "应该",
+    "pinyin": "yīnggāi",
+    "meaning": "should",
+    "audio_file": "audio_577.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "影响",
+    "pinyin": "yǐngxiǎng",
+    "meaning": "influence",
+    "audio_file": "audio_578.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "用",
+    "pinyin": "yòng",
+    "meaning": "use",
+    "audio_file": "audio_579.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "游戏",
+    "pinyin": "yóuxì",
+    "meaning": "game",
+    "audio_file": "audio_580.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "有名",
+    "pinyin": "yǒumíng",
+    "meaning": "famous",
+    "audio_file": "audio_581.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "又",
+    "pinyin": "yòu",
+    "meaning": "also",
+    "audio_file": "audio_582.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "遇到",
+    "pinyin": "yùdào",
+    "meaning": "encounter",
+    "audio_file": "audio_583.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "愿意",
+    "pinyin": "yuànyì",
+    "meaning": "be willing",
+    "audio_file": "audio_584.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "月亮",
+    "pinyin": "yuèliang",
+    "meaning": "moon",
+    "audio_file": "audio_585.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "越",
+    "pinyin": "yuè",
+    "meaning": "the more…",
+    "audio_file": "audio_586.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "云",
+    "pinyin": "yún",
+    "meaning": "cloud",
+    "audio_file": "audio_587.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "meaning": "station",
+    "audio_file": "audio_588.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "照顾",
+    "pinyin": "zhàogù",
+    "meaning": "look after",
+    "audio_file": "audio_589.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "meaning": "photo",
+    "audio_file": "audio_590.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "meaning": "camera",
+    "audio_file": "audio_591.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "这 (这儿)",
+    "pinyin": "zhè (zhèr)",
+    "meaning": "here (here)",
+    "audio_file": "audio_592.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "meaning": "only",
+    "audio_file": "audio_593.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "中间",
+    "pinyin": "zhōngjiān",
+    "meaning": "middle",
+    "audio_file": "audio_594.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "终于",
+    "pinyin": "zhōngyú",
+    "meaning": "finally",
+    "audio_file": "audio_595.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "种",
+    "pinyin": "zhǒng",
+    "meaning": "species",
+    "audio_file": "audio_596.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "重要",
+    "pinyin": "zhòngyào",
+    "meaning": "important",
+    "audio_file": "audio_597.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "weekend",
+    "audio_file": "audio_598.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "主要",
+    "pinyin": "zhǔyào",
+    "meaning": "main",
+    "audio_file": "audio_599.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "meaning": "wish",
+    "audio_file": "audio_600.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "注意",
+    "pinyin": "zhùyì",
+    "meaning": "pay attention to",
+    "audio_file": "audio_601.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "字典",
+    "pinyin": "zìdiǎn",
+    "meaning": "dictionary",
+    "audio_file": "audio_602.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "meaning": "my own; your own",
+    "audio_file": "audio_603.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "总是",
+    "pinyin": "zǒngshì",
+    "meaning": "always",
+    "audio_file": "audio_604.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "最近",
+    "pinyin": "zuìjìn",
+    "meaning": "lately",
+    "audio_file": "audio_605.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "作业",
+    "pinyin": "zuòyè",
+    "meaning": "task",
+    "audio_file": "audio_606.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  },
+  {
+    "hanzi": "作用",
+    "pinyin": "zuòyòng",
+    "meaning": "effect",
+    "audio_file": "audio_607.mp3",
+    "interval": 1,
+    "ease": 2.5,
+    "reps": 0,
+    "due": 0
+  }
+]

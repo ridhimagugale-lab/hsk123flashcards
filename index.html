@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK Flashcards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;700&family=DM+Mono:wght@300;400&family=DM+Sans:wght@300;400;500&display=swap"
+        rel="stylesheet">
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg: #0f0f0f;
+            --surface: #171717;
+            --border: #252525;
+            --border2: #333;
+            --text: #e8e4dc;
+            --muted: #555;
+            --muted2: #777;
+            --accent: #c8a96e;
+            --card-h: 420px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        :root.light {
+            --bg: #f5f2ed;
+            --surface: #ffffff;
+            --border: #e0dbd2;
+            --border2: #c8c2b8;
+            --text: #1a1814;
+            --muted: #aaa;
+            --muted2: #888;
+            --accent: #a07840;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'DM Sans', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0 16px 80px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        /* progress bar */
+        #prog-wrap {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--border);
+            z-index: 100;
+        }
+
+        #prog {
+            height: 100%;
+            background: var(--accent);
+            width: 0%;
+            transition: width 0.5s ease;
+        }
+
+        /* header */
+        header {
+            width: 100%;
+            max-width: 540px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 32px 0 24px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 36px;
+        }
+
+        .logo {
+            font-family: 'DM Mono', monospace;
+            font-size: 12px;
+            font-weight: 300;
+            color: var(--muted2);
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+        }
+
+        .logo em {
+            color: var(--accent);
+            font-style: normal;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        #info {
+            font-family: 'DM Mono', monospace;
+            font-size: 12px;
+            color: var(--muted);
+            letter-spacing: 0.06em;
+        }
+
+        #theme-btn {
+            background: none;
+            border: 1px solid var(--border);
+            border-radius: 7px;
+            color: var(--muted2);
+            font-size: 15px;
+            padding: 4px 8px;
+            cursor: pointer;
+            transition: border-color 0.18s, color 0.18s;
+            line-height: 1;
+        }
+
+        #theme-btn:hover {
+            border-color: var(--border2);
+            color: var(--text);
+        }
+
+        /* card scene */
+        #card-scene {
+            width: 100%;
+            max-width: 540px;
+            perspective: 1400px;
+            margin-bottom: 20px;
+            animation: fadeUp 0.5s ease both;
+        }
+
+        #card {
+            width: 100%;
+            height: var(--card-h);
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s cubic-bezier(0.35, 0, 0.2, 1);
+            cursor: pointer;
+        }
+
+        #card.flipped {
+            transform: rotateY(180deg);
+        }
+
+        .face {
+            position: absolute;
+            inset: 0;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 44px 40px;
+            overflow: hidden;
+            transition: background 0.3s, border-color 0.3s;
+        }
+
+        .face-back {
+            transform: rotateY(180deg);
+        }
+
+        .face::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent 10%, rgba(200, 169, 110, 0.2) 50%, transparent 90%);
+        }
+
+        .face-tag {
+            position: absolute;
+            top: 22px;
+            left: 26px;
+            font-family: 'DM Mono', monospace;
+            font-size: 10px;
+            font-weight: 300;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+
+        .face-hint {
+            position: absolute;
+            bottom: 22px;
+            font-family: 'DM Mono', monospace;
+            font-size: 13px;
+            font-weight: 400;
+            color: var(--muted);
+            letter-spacing: 0.1em;
+            transition: color 0.3s;
+        }
+
+        #card:hover .face-hint {
+            color: var(--muted2);
+        }
+
+        /* hanzi */
+        .hanzi {
+            font-family: 'Noto Serif SC', serif;
+            font-size: clamp(92px, 22vw, 134px);
+            font-weight: 400;
+            line-height: 1;
+            color: var(--text);
+            letter-spacing: 0.04em;
+        }
+
+        .hanzi-rule {
+            margin-top: 20px;
+            width: 28px;
+            height: 1px;
+            background: var(--accent);
+            opacity: 0.4;
+        }
+
+        /* back face */
+        .back-hanzi {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 32px;
+            font-weight: 300;
+            color: var(--muted);
+            margin-bottom: 18px;
+        }
+
+        .pinyin {
+            font-family: 'DM Mono', monospace;
+            font-size: clamp(26px, 7vw, 40px);
+            font-weight: 300;
+            color: var(--accent);
+            letter-spacing: 0.06em;
+            margin-bottom: 14px;
+        }
+
+        .meaning {
+            font-family: 'DM Sans', sans-serif;
+            font-size: clamp(16px, 4vw, 22px);
+            font-weight: 300;
+            color: var(--muted2);
+            text-align: center;
+            max-width: 340px;
+            line-height: 1.6;
+        }
+
+        /* nav */
+        #nav {
+            width: 100%;
+            max-width: 540px;
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+            animation: fadeUp 0.5s 0.08s ease both;
+        }
+
+        .nbtn {
+            flex: 1;
+            background: none;
+            border: 1px solid var(--border);
+            border-radius: 9px;
+            color: var(--muted2);
+            font-family: 'DM Mono', monospace;
+            font-size: 14px;
+            font-weight: 400;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            padding: 14px 4px;
+            cursor: pointer;
+            transition: border-color 0.18s, color 0.18s, background 0.18s;
+        }
+
+        .nbtn:hover {
+            border-color: var(--border2);
+            color: var(--text);
+        }
+
+        /* rating */
+        #rate-wrap {
+            width: 100%;
+            max-width: 540px;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.28s ease, transform 0.28s ease;
+            pointer-events: none;
+        }
+
+        #rate-wrap.show {
+            opacity: 1;
+            transform: none;
+            pointer-events: all;
+        }
+
+        .rate-lbl {
+            font-family: 'DM Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        #rate-btns {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+        }
+
+        .rbtn {
+            border: none;
+            border-radius: 11px;
+            padding: 14px 6px 12px;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            transition: transform 0.14s, filter 0.14s;
+        }
+
+        .rbtn:hover {
+            transform: translateY(-2px);
+            filter: brightness(1.12);
+        }
+
+        .rbtn:active {
+            transform: none;
+        }
+
+        .rbtn .k {
+            font-family: 'DM Mono', monospace;
+            font-size: 10px;
+            opacity: 0.55;
+            font-weight: 300;
+        }
+
+        .r-again {
+            background: #1e0d0d;
+            color: #e07272;
+            border: 1px solid #321515;
+        }
+
+        .r-hard {
+            background: #1c1108;
+            color: #d4924c;
+            border: 1px solid #302010;
+        }
+
+        .r-good {
+            background: #0b1a10;
+            color: #5cc487;
+            border: 1px solid #10271a;
+        }
+
+        .r-easy {
+            background: #081420;
+            color: #5aaede;
+            border: 1px solid #0c2236;
+        }
+
+        /* light mode rating buttons */
+        :root.light .r-again {
+            background: #fdf0f0;
+            color: #c0392b;
+            border: 1px solid #f5c6c6;
+        }
+
+        :root.light .r-hard {
+            background: #fdf6ee;
+            color: #a0520a;
+            border: 1px solid #f5dfc0;
+        }
+
+        :root.light .r-good {
+            background: #f0faf4;
+            color: #276b40;
+            border: 1px solid #b8e8cc;
+        }
+
+        :root.light .r-easy {
+            background: #eef6fd;
+            color: #1a5c8a;
+            border: 1px solid #b8d8f5;
+        }
+
+        /* empty */
+        #empty {
+            display: none;
+            width: 100%;
+            max-width: 540px;
+            height: var(--card-h);
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 14px;
+        }
+
+        #empty.show {
+            display: flex;
+        }
+
+        .e-icon {
+            font-size: 44px;
+        }
+
+        .e-title {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 24px;
+            font-weight: 300;
+            color: var(--text);
+        }
+
+        .e-sub {
+            font-family: 'DM Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            letter-spacing: 0.1em;
+        }
+
+        /* footer */
+        footer {
+            margin-top: 28px;
+            width: 100%;
+            max-width: 540px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .expbtn {
+            background: none;
+            border: 1px solid var(--border);
+            border-radius: 7px;
+            color: var(--muted);
+            font-family: 'DM Mono', monospace;
+            font-size: 11px;
+            letter-spacing: 0.08em;
+            padding: 7px 14px;
+            cursor: pointer;
+            transition: border-color 0.18s, color 0.18s;
+        }
+
+        .expbtn:hover {
+            border-color: var(--border2);
+            color: var(--text);
+        }
+
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(18px);
+            }
+
+            to {
+                opacity: 1;
+                transform: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="prog-wrap">
+        <div id="prog"></div>
+    </div>
+
+    <header>
+        <div class="logo">HSK <em>·</em> Flashcards</div>
+        <div class="header-right">
+            <div id="info">loading…</div>
+            <button id="theme-btn" onclick="toggleTheme()" title="Toggle light/dark mode">☀️</button>
+        </div>
+    </header>
+
+    <!-- Card -->
+    <div id="card-scene">
+        <div id="card" onclick="flipCard()">
+            <div class="face face-front">
+                <div class="face-tag">hanzi</div>
+                <div class="hanzi" id="h-display">汉字</div>
+                <div class="hanzi-rule"></div>
+                <div class="face-hint">tap to reveal · space</div>
+            </div>
+            <div class="face face-back">
+                <div class="face-tag">pinyin · meaning</div>
+                <div class="back-hanzi" id="b-hanzi"></div>
+                <div class="pinyin" id="p-display"></div>
+                <div class="meaning" id="m-display"></div>
+                <div class="face-hint">rate below · 1 2 3 4</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Empty -->
+    <div id="empty">
+        <div class="e-icon">🎋</div>
+        <div class="e-title" id="e-title">All caught up</div>
+        <div class="e-sub" id="e-sub">no cards due today</div>
+    </div>
+
+    <!-- Nav -->
+    <div id="nav">
+        <button class="nbtn" onclick="playAudio()">▶ audio</button>
+        <button class="nbtn" onclick="backCard()">← back</button>
+        <button class="nbtn" onclick="nextCard()">next →</button>
+    </div>
+
+    <!-- Rating -->
+    <div id="rate-wrap">
+        <div class="rate-lbl">how well did you know it?</div>
+        <div id="rate-btns">
+            <button class="rbtn r-again" onclick="rate(1);event.stopPropagation()">Again<span
+                    class="k">1</span></button>
+            <button class="rbtn r-hard" onclick="rate(3);event.stopPropagation()">Hard<span class="k">2</span></button>
+            <button class="rbtn r-good" onclick="rate(4);event.stopPropagation()">Good<span class="k">3</span></button>
+            <button class="rbtn r-easy" onclick="rate(5);event.stopPropagation()">Easy<span class="k">4</span></button>
+        </div>
+    </div>
+
+    <footer>
+        <button class="expbtn" onclick="downloadData()">⬇ export progress</button>
+        <button class="expbtn" style="margin-left:8px;color:#c0392b;border-color:#c0392b;" onclick="resetProgress()">↺
+            reset progress</button>
+    </footer>
+
+    <audio id="player"></audio>
+
+    <script>
+        let data = [], queue = [], queuePos = 0, flipped = false;
+        const STORE = "hsk_progress";
+        const THEME_STORE = "hsk_theme";
+
+        const cardEl = document.getElementById("card");
+        const cardScene = document.getElementById("card-scene");
+        const emptyEl = document.getElementById("empty");
+        const eTitleEl = document.getElementById("e-title");
+        const eSubEl = document.getElementById("e-sub");
+        const hDisp = document.getElementById("h-display");
+        const bHanzi = document.getElementById("b-hanzi");
+        const pDisp = document.getElementById("p-display");
+        const mDisp = document.getElementById("m-display");
+        const infoEl = document.getElementById("info");
+        const progEl = document.getElementById("prog");
+        const rateWrap = document.getElementById("rate-wrap");
+        const navEl = document.getElementById("nav");
+        const themeBtn = document.getElementById("theme-btn");
+
+        // Theme
+        function toggleTheme() {
+            const isLight = document.documentElement.classList.toggle("light");
+            themeBtn.textContent = isLight ? "🌙" : "☀️";
+            localStorage.setItem(THEME_STORE, isLight ? "light" : "dark");
+        }
+        function initTheme() {
+            const saved = localStorage.getItem(THEME_STORE);
+            if (saved === "light") {
+                document.documentElement.classList.add("light");
+                themeBtn.textContent = "🌙";
+            }
+        }
+        initTheme();
+
+        // SM-2
+        function today() { return Math.floor(Date.now() / 86400000); }
+        function sm2(c, grade) {
+            const q = grade === 1 ? 0 : grade;
+            if (q < 3) { c.reps = 0; c.interval = 1; }
+            else {
+                if (c.reps === 0) c.interval = 1;
+                else if (c.reps === 1) c.interval = 6;
+                else c.interval = Math.round(c.interval * c.ease);
+                c.reps++;
+            }
+            c.ease = Math.max(1.3, c.ease + 0.1 - (5 - q) * (0.08 + (5 - q) * 0.02));
+            c.due = today() + c.interval;
+        }
+
+        // Storage
+        function save() {
+            const p = {};
+            data.forEach(c => { p[c.hanzi] = { interval: c.interval, ease: c.ease, reps: c.reps, due: c.due }; });
+            localStorage.setItem(STORE, JSON.stringify(p));
+        }
+        function load() {
+            const raw = localStorage.getItem(STORE);
+            if (!raw) return;
+            const p = JSON.parse(raw);
+            data.forEach(c => { if (p[c.hanzi]) Object.assign(c, p[c.hanzi]); });
+        }
+        function resetProgress() {
+            if (!confirm("Reset all progress? This will make all 608 cards due again.")) return;
+            localStorage.removeItem(STORE);
+            data.forEach(c => { c.interval = 1; c.ease = 2.5; c.reps = 0; c.due = 0; });
+            buildQueue();
+            render();
+        }
+
+        function downloadData() {
+            const b = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+            const a = document.createElement("a");
+            a.href = URL.createObjectURL(b); a.download = "data.json"; a.click();
+        }
+
+        // Queue
+        function buildQueue() {
+            const t = today();
+            queue = data.map((c, i) => ({ i, due: c.due })).filter(({ due }) => due <= t).map(({ i }) => i);
+            for (let j = queue.length - 1; j > 0; j--) {
+                const k = Math.floor(Math.random() * (j + 1));
+                [queue[j], queue[k]] = [queue[k], queue[j]];
+            }
+            queuePos = 0;
+        }
+        function cur() { return queue[queuePos]; }
+
+        // Render
+        function updateProg() {
+            const left = queue.length - queuePos;
+            progEl.style.width = queue.length > 0 ? (queuePos / queue.length * 100) + "%" : "0%";
+            infoEl.textContent = queue.length > 0 ? `${left} / ${queue.length}` : "0 due";
+        }
+
+        function showEmpty(done) {
+            cardScene.style.display = "none";
+            navEl.style.display = "none";
+            rateWrap.classList.remove("show");
+            emptyEl.classList.add("show");
+            if (done) {
+                eTitleEl.textContent = "Session complete";
+                eSubEl.textContent = `${queue.length} cards reviewed`;
+                progEl.style.width = "100%";
+            } else {
+                eTitleEl.textContent = "All caught up";
+                eSubEl.textContent = "no cards due today";
+            }
+        }
+
+        function render() {
+            if (!data.length) return;
+            updateProg();
+            if (queue.length === 0) { showEmpty(false); return; }
+            if (queuePos >= queue.length) { showEmpty(true); return; }
+            cardScene.style.display = "";
+            navEl.style.display = "";
+            emptyEl.classList.remove("show");
+
+            if (flipped) {
+                setFlip(false);
+                setTimeout(() => {
+                    const c = data[cur()];
+                    if (!c) return;
+                    hDisp.textContent = c.hanzi;
+                    bHanzi.textContent = c.hanzi;
+                    pDisp.textContent = c.pinyin;
+                    mDisp.textContent = c.meaning;
+                }, 620);
+            } else {
+                const c = data[cur()];
+                hDisp.textContent = c.hanzi;
+                bHanzi.textContent = c.hanzi;
+                pDisp.textContent = c.pinyin;
+                mDisp.textContent = c.meaning;
+            }
+        }
+
+        function setFlip(val) {
+            flipped = val;
+            cardEl.classList.toggle("flipped", val);
+            rateWrap.classList.toggle("show", val);
+        }
+
+        function flipCard() {
+            if (!queue.length || queuePos >= queue.length) return;
+            setFlip(!flipped);
+        }
+
+        function playAudio() {
+            const c = data[cur()]; if (!c) return;
+            const p = document.getElementById("player");
+            p.src = "audio/" + c.audio_file; p.play();
+        }
+
+        function rate(grade) {
+            const c = data[cur()]; if (!c) return;
+            sm2(c, grade); save();
+            if (grade === 1) queue.splice(Math.min(queuePos + 3, queue.length), 0, cur());
+            queuePos++;
+            render();
+        }
+
+        function nextCard() { if (!queue.length) return; queuePos = Math.min(queuePos + 1, queue.length); render(); }
+        function backCard() { if (!queue.length) return; queuePos = Math.max(queuePos - 1, 0); render(); }
+
+        // Keyboard
+        document.addEventListener("keydown", e => {
+            if (e.key === " " || e.key === "Enter") { e.preventDefault(); flipCard(); }
+            if (flipped) {
+                if (e.key === "1") rate(1);
+                if (e.key === "2") rate(3);
+                if (e.key === "3") rate(4);
+                if (e.key === "4") rate(5);
+            }
+            if (e.key === "ArrowRight") nextCard();
+            if (e.key === "ArrowLeft") backCard();
+            if (e.key === "p" || e.key === "P") playAudio();
+        });
+
+        // Init
+        fetch("data.json")
+            .then(r => r.json())
+            .then(json => { data = json; load(); buildQueue(); render(); })
+            .catch(err => { console.error(err); infoEl.textContent = "error loading data"; });
+    </script>
+</body>
+
+</html>
